@@ -10,6 +10,11 @@
         height: 60px;
 
     }
+
+    .rodape {
+        display: flex;
+        
+    }
 }
 @media screen and (min-width:1000px) {
     .descricao{
