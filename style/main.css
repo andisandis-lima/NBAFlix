@@ -121,14 +121,12 @@ header nav a:hover {
     color: white;
     display: flex;
     flex-direction: row;
-    justify-content: right;
+    justify-content: left;
 }
 
 .fa-2x i {
     margin-left: 30px;
     color: white;
-    
-    
 }
 
 
